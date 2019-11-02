@@ -1405,6 +1405,7 @@
     <Compile Include="test\__main__.py" />
     <Compile Include="textwrap.py" />
     <Compile Include="this.py" />
+    <Compile Include="codustry.py" />
     <Compile Include="threading.py" />
     <Compile Include="timeit.py" />
     <Compile Include="tkinter\colorchooser.py" />
